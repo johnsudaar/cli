@@ -103,17 +103,22 @@ main() {
 
   status "Install scalingo client to /usr/local/bin\n"
   if [ ! -w /usr/local/bin ] ; then
-    sudo=sudo
-    info "sudo required...\n"
+      sudo=sudo
+      info "sudo required...\n"
   fi
 
   $sudo mv $exe_path $target ; rc=$?
 
   if [ $rc -ne 0 ] ; then
-    error "Fail to install scalingo client (return $rc)\n"
+      error "Fail to install scalingo client (return $rc)\n"
+      exit -1
   else
-    status "Installation completed, the command 'scalingo' is available.\n"
+      status "Installation completed, the command 'scalingo' is available.\n"
   fi
+
+  echo ""
+  info "Auto-completion : http://doc.scalingo.com/cli#command-completion"
+
 }
 
 # Avoid error if download failure
