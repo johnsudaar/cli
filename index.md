@@ -55,6 +55,24 @@ The client is developed with Go. Therefore, there is no external dependency.
 
 ## Changelog
 
+__1.3.0__
+
+* [Feature - Auth] Authentication with API key or SSH key (--ssh or --api-key flags) [#196](https://github.com/Scalingo/cli/issues/196) [#200](https://github.com/Scalingo/cli/issues/200)
+* [Feature - Auth] New format of configuration file for authentication, auto migration. [#200](https://github.com/Scalingo/cli/issues/200)
+* [Feature - Scale] Possibility to scale with relative operator (i.e. web:+1) [#197](https://github.com/Scalingo/cli/issues/197) [#198](https://github.com/Scalingo/cli/issues/198)
+* [Feature - Run] --type to directly run a command defined by a Procfile line [#185](https://github.com/Scalingo/cli/issues/185) [#207](https://github.com/Scalingo/cli/issues/207)
+* [Feature - Run] --silent flag to remove any noise and only get the one-off command output [#191](https://github.com/Scalingo/cli/issues/191)
+* [Enhancement - Run] Display output on stderr to be able to drop it to /dev/null [#190](https://github.com/Scalingo/cli/issues/190)
+* [Enhancement - Run] Exit code of one-off container is now forward as exit code of the CLI [#203](https://github.com/Scalingo/cli/issues/203) [#205](https://github.com/Scalingo/cli/issues/205)
+* [Bugfix - Stats] Fix computation of percentage for higher bound value
+* [Bugfix - Run] Accept pipes and redirections as input for one-off containers [#199](https://github.com/Scalingo/cli/issues/199) [#206](https://github.com/Scalingo/cli/issues/206)
+* [Bugfix - Env] Remove arguments validation, that's server role, and it changes sometimes
+* [Bugfix - Env] Add quotes in output of env-set to avoid copy/paste problem with the final period
+* [Bugfix - Scale] Fix error management when application is already restarting or scaling [#195](https://github.com/Scalingo/cli/issues/195)
+* [Bugfix - Tunnel] Fix panic when authentication fails when building SSH tunnel 
+* [Bugfix - Tunnel] Fix double error handling when binding local port [#202](https://github.com/Scalingo/cli/issues/202)
+* [Bugfix] Fix install script on Mac OS X El Capitan 10.11
+
 __1.2.0__
 
 * [Feature - DB Tunnel] Reconnect automatically in case of connection problem
