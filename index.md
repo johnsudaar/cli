@@ -55,6 +55,10 @@ The client is developed with Go. Therefore, there is no external dependency.
 
 ## Changelog
 
+__1.3.1__
+
+* [Bugfix - Auth] Fix authentication configuration for --ssh or --apikey, two attempts were necessary [#208](https://github.com/Scalingo/cli/issues/208) [#209](https://github.com/Scalingo/cli/issues/209)
+
 __1.3.0__
 
 * [Feature - Auth] Authentication with API key or SSH key (--ssh or --api-key flags) [#196](https://github.com/Scalingo/cli/issues/196) [#200](https://github.com/Scalingo/cli/issues/200)
