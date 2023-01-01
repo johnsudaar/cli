@@ -9,7 +9,7 @@ require (
 	github.com/Scalingo/go-utils/logger v1.2.0
 	github.com/Scalingo/go-utils/retry v1.1.1
 	github.com/andrew-d/go-termutil v0.0.0-20150726205930-009166a695a2
-	github.com/briandowns/spinner v1.19.0
+	github.com/briandowns/spinner v1.20.0
 	github.com/cheggaaa/pb/v3 v3.1.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
@@ -25,7 +25,7 @@ require (
 	github.com/urfave/cli/v2 v2.23.7
 	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
 	golang.org/x/net v0.0.0-20220927171203-f486391704dc
-	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035
+	golang.org/x/term v0.1.0
 	gopkg.in/AlecAivazis/survey.v1 v1.8.8
 	gopkg.in/errgo.v1 v1.0.1
 )
