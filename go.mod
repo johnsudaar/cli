@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/ScaleFT/sshkeys v1.2.0
-	github.com/Scalingo/go-scalingo/v6 v6.3.0
+	github.com/Scalingo/go-scalingo/v6 v6.4.0
 	github.com/Scalingo/go-utils/errors v1.1.1
 	github.com/Scalingo/go-utils/logger v1.2.0
 	github.com/Scalingo/go-utils/retry v1.1.1
@@ -22,7 +22,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	github.com/stvp/rollbar v0.5.1
 	github.com/urfave/cli/v2 v2.25.1
 	golang.org/x/crypto v0.7.0
@@ -33,6 +33,7 @@ require (
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8 // indirect
+	github.com/Scalingo/go-utils/errors/v2 v2.2.0 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/cloudflare/circl v1.3.2 // indirect
