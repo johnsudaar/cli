@@ -3,7 +3,7 @@ module github.com/Scalingo/cli
 go 1.19
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.6
+	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/ScaleFT/sshkeys v1.2.0
 	github.com/Scalingo/go-scalingo/v6 v6.6.0
 	github.com/Scalingo/go-utils/errors v1.1.1
