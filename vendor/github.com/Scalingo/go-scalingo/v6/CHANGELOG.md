@@ -2,6 +2,20 @@
 
 ## To Be Released
 
+## 6.7.2
+
+* fix(maintenance): change listing pagination meta to standard pagination meta
+
+## 6.7.1
+
+* style(readme): update api version
+
+## 6.7.0
+
+* feat(maintenance): add maintenance windows
+* feat(maintenance): add maintenance listing
+* feat(maintenance): add maintenance show
+
 ## 6.6.0
 
 * feat(scm-repo-link): fetch a Pull Request data
