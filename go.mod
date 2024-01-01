@@ -13,7 +13,7 @@ require (
 	github.com/briandowns/spinner v1.23.0
 	github.com/cheggaaa/pb/v3 v3.1.4
 	github.com/dustin/go-humanize v1.0.1
-	github.com/fatih/color v1.15.0
+	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.10.1
 	github.com/google/go-github/v47 v47.1.0
 	github.com/gorilla/websocket v1.5.1
