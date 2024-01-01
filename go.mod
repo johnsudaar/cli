@@ -14,7 +14,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.1.4
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.16.0
-	github.com/go-git/go-git/v5 v5.10.1
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/google/go-github/v47 v47.1.0
 	github.com/gorilla/websocket v1.5.1
 	github.com/gosuri/uilive v0.0.4
