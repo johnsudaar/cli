@@ -11,7 +11,7 @@ require (
 	github.com/Scalingo/go-utils/retry v1.1.1
 	github.com/andrew-d/go-termutil v0.0.0-20150726205930-009166a695a2
 	github.com/briandowns/spinner v1.23.0
-	github.com/cheggaaa/pb/v3 v3.1.4
+	github.com/cheggaaa/pb/v3 v3.1.5
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.11.0
