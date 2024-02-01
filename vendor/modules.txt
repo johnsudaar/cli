@@ -69,7 +69,7 @@ github.com/andrew-d/go-termutil
 # github.com/briandowns/spinner v1.23.0
 ## explicit; go 1.17
 github.com/briandowns/spinner
-# github.com/cheggaaa/pb/v3 v3.1.4
+# github.com/cheggaaa/pb/v3 v3.1.5
 ## explicit; go 1.17
 github.com/cheggaaa/pb/v3
 github.com/cheggaaa/pb/v3/termutil
