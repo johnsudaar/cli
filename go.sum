@@ -11,8 +11,8 @@ github.com/ProtonMail/go-crypto v1.1.0-alpha.0 h1:nHGfwXmFvJrSR9xu8qL7BkO4DqTHXE
 github.com/ProtonMail/go-crypto v1.1.0-alpha.0/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
 github.com/ScaleFT/sshkeys v1.2.0 h1:5BRp6rTVIhJzXT3VcUQrKgXR8zWA3sOsNeuyW15WUA8=
 github.com/ScaleFT/sshkeys v1.2.0/go.mod h1:gxOHeajFfvGQh/fxlC8oOKBe23xnnJTif00IFFbiT+o=
-github.com/Scalingo/go-scalingo/v6 v6.7.5 h1:88G7v77Pd7q6CjODCzjnD9zBpcoZfmDY6nyUzihxWKE=
-github.com/Scalingo/go-scalingo/v6 v6.7.5/go.mod h1:rjp3U/gawXdy9vhGZKHySa2v0CMnJCGQjtobhZw8DPg=
+github.com/Scalingo/go-scalingo/v6 v6.7.7 h1:pDjEtcl7z3oJ3t7s5TieWBbr5wlzF/J/7mIHzBCrRBY=
+github.com/Scalingo/go-scalingo/v6 v6.7.7/go.mod h1:GCQ0KuiYKWr1EXqYXolZ+j7R5+DVjKr2K2t7CrayzW0=
 github.com/Scalingo/go-utils/errors v1.1.1 h1:G7zypaDBj0O6QFvX0xL5dMDXbiBgq+3KKuodldtOpg0=
 github.com/Scalingo/go-utils/errors v1.1.1/go.mod h1:gsnGOMma5x3CSgPb8i5eMuHcKi3RvTJ9dWPNRev161c=
 github.com/Scalingo/go-utils/errors/v2 v2.3.0 h1:9Ju4EmxXWoUsm0LOEWyEYUfT503l78YeQx0r6i1MdBI=
