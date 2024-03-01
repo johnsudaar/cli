@@ -7,8 +7,8 @@ github.com/Microsoft/go-winio v0.6.1 h1:9/kr64B9VUZrLm5YYwbGtUJnMgqWVOdUAXu6Migc
 github.com/Microsoft/go-winio v0.6.1/go.mod h1:LRdKpFKfdobln8UmuiYcKPot9D2v6svN5+sAH+4kjUM=
 github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2 h1:+vx7roKuyA63nhn5WAunQHLTznkw5W8b1Xc0dNjp83s=
 github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2/go.mod h1:HBCaDeC1lPdgDeDbhX8XFpy1jqjK0IBG8W5K+xYqA0w=
-github.com/ProtonMail/go-crypto v1.1.0-alpha.0 h1:nHGfwXmFvJrSR9xu8qL7BkO4DqTHXE9N5vPhgY2I+j0=
-github.com/ProtonMail/go-crypto v1.1.0-alpha.0/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
+github.com/ProtonMail/go-crypto v1.1.0-alpha.1 h1:iKLDnKGL+3u4Q5OjYgixAxWdkkGBPidCQumqVryUgtY=
+github.com/ProtonMail/go-crypto v1.1.0-alpha.1/go.mod h1:rA3QumHc/FZ8pAHreoekgiAbzpNsfQAosU5td4SnOrE=
 github.com/ScaleFT/sshkeys v1.2.0 h1:5BRp6rTVIhJzXT3VcUQrKgXR8zWA3sOsNeuyW15WUA8=
 github.com/ScaleFT/sshkeys v1.2.0/go.mod h1:gxOHeajFfvGQh/fxlC8oOKBe23xnnJTif00IFFbiT+o=
 github.com/Scalingo/go-scalingo/v6 v6.7.7 h1:pDjEtcl7z3oJ3t7s5TieWBbr5wlzF/J/7mIHzBCrRBY=
