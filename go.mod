@@ -25,7 +25,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/stvp/rollbar v0.5.1
 	github.com/urfave/cli/v2 v2.27.2
-	golang.org/x/crypto v0.21.0
+	golang.org/x/crypto v0.22.0
 	golang.org/x/term v0.19.0
 	gopkg.in/errgo.v1 v1.0.1
 )
