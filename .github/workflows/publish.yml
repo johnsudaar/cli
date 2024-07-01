@@ -31,7 +31,7 @@ jobs:
           check-latest: true
           cache: true
       - name: Run GoReleaser
-        uses: goreleaser/goreleaser-action@v5
+        uses: goreleaser/goreleaser-action@v6
         with:
           version: latest
           args: release --rm-dist
@@ -54,7 +54,7 @@ jobs:
           check-latest: true
           cache: true
       - name: Run GoReleaser
-        uses: goreleaser/goreleaser-action@v5
+        uses: goreleaser/goreleaser-action@v6
         with:
           version: latest
           args: release --config .goreleaser-windows.yaml --rm-dist
