@@ -24,7 +24,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.9.0
 	github.com/stvp/rollbar v0.5.1
-	github.com/urfave/cli/v2 v2.27.3
+	github.com/urfave/cli/v2 v2.27.4
 	golang.org/x/crypto v0.25.0
 	golang.org/x/term v0.22.0
 	gopkg.in/errgo.v1 v1.0.1
