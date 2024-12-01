@@ -22,7 +22,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/stvp/rollbar v0.5.1
 	github.com/urfave/cli/v2 v2.27.5
 	golang.org/x/crypto v0.28.0
