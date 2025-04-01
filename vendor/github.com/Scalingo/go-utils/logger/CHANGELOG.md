@@ -2,6 +2,14 @@
 
 ## To be Released
 
+## v1.5.0
+
+* feat(logger): add close wrapper of rollbar plugin
+
+## v1.4.0
+
+* feat(logger): add support for `log` tags
+
 ## v1.3.1
 
 * fix(logger): remove custom type (use string) for logger context key
