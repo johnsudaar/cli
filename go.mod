@@ -7,7 +7,7 @@ require (
 	github.com/ScaleFT/sshkeys v1.4.0
 	github.com/Scalingo/go-scalingo/v6 v6.7.7
 	github.com/Scalingo/go-utils/errors v1.1.1
-	github.com/Scalingo/go-utils/logger v1.3.1
+	github.com/Scalingo/go-utils/logger v1.5.0
 	github.com/Scalingo/go-utils/retry v1.1.1
 	github.com/andrew-d/go-termutil v0.0.0-20150726205930-009166a695a2
 	github.com/briandowns/spinner v1.23.2
