@@ -220,10 +220,13 @@ github.com/mattn/go-runewidth
 # github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 ## explicit
 github.com/mgutz/ansi
+# github.com/olekukonko/cat v0.0.0-20250808191157-46fba99501f3
+## explicit; go 1.21
+github.com/olekukonko/cat
 # github.com/olekukonko/errors v1.1.0
 ## explicit; go 1.21
 github.com/olekukonko/errors
-# github.com/olekukonko/ll v0.0.9
+# github.com/olekukonko/ll v0.1.1
 ## explicit; go 1.21
 github.com/olekukonko/ll
 github.com/olekukonko/ll/lh
